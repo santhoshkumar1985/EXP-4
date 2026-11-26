@@ -2,10 +2,7 @@ EXPERIMENT NO. 4 – HALF WAVE AND FULL WAVE BRIDGE RECTIFIERS
 
 | **Name:** |SANTHOSH KUMAR K| **Reg. No.:** |26019408|
 |---|---|---|---|
-| **Date:** |24/11/2026| **Batch / Section:** |26ODJ150|
-|
-
----
+| **Date:** |24/11/2026| **Batch / Section:** |26O19408|
 
 ## AIM
 
